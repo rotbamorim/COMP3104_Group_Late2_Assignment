@@ -1,0 +1,3 @@
+A process based on the simplicity of deploying code to production servers, 
+applying hot patches, identifying mistakes before they result in some form of unexpected behaviour,
+and maintaining transparency and communication would be made possible by properly utilising DevOps methods.

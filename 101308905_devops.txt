@@ -1,0 +1,5 @@
+The Devops course at George Brown College is designed to better equip students,
+with skills and knowledge required to excel in this field.
+
+It also gives students oppurtunities to experience and learn working with Devops technologies like 
+Amazon Web Services, Ansible, docker and Travis CI.
