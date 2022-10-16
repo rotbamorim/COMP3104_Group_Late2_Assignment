@@ -1,12 +1,13 @@
 # COMP3104_Group_Late2_Assignment
 
-DevOps Group Assignment
+<h1>DevOps Group Assignment</h1>
 
-Group Members
-Raphael Amorim
+<h2>Group Members</h2>
 
-Mykyta Bortnik
+<h2>Raphael Amorim</h2>
 
-Pavan Kumar Naga Bhushanam
+<h2>Mykyta Bortnik</h2>
 
-Adam Syed
+<h2>Pavan Kumar Naga Bhushanam</h2>
+
+<h2>Adam Syed</h2>
