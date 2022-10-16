@@ -4,6 +4,9 @@ DevOps Group Assignment
 
 Group Members
 Raphael Amorim
+
 Mykyta Bortnik
+
 Pavan Kumar Naga Bhushanam
+
 Adam Syed
