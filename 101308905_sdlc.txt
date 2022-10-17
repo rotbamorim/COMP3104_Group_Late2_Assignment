@@ -1,1 +1,2 @@
 A process based on ease will be able to ship code to Production servers, apply hot fixes, identify errors before they cause unintended behavior, and maintain increased transparency and communication among all teams by effectively utilizing DevOps practices.A developer who is more knowledgeable and competent will be produced if the software development lifecycle is viewed through the lens of a DevOps Engineer.
+
