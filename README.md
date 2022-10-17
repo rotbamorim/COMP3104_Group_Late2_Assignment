@@ -8,7 +8,7 @@
 
 <h2>Raphael Amorim</h2>
 
-<h2>Mykyta Bortnik</h2>
+<h2>Mykyta Bortnik - Screenshots in file exchange section in the Blackboard group</h2>
 
 <h2>Pavan Kumar Naga Bhushanam</h2>
 
